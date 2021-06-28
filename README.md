@@ -1,1 +1,2 @@
-# Aprendizaje-por-refuerzo-Fundamentos-teoricos-del-algoritmo-PPO-e-implementacion
+# Aprendizaje por refuerzo: Fundamentos teóricos del algoritmo PPO e implementación
+
